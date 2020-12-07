@@ -1,5 +1,5 @@
 h3{
-  color: #ffffff;
+  color:#ffffff;
   }
 
 .personal{
@@ -10,6 +10,37 @@ h3{
   background-color:white;
 }
 
-#myname {
+hr{
+  background-color: white;
+  border-style:none;
+  width:50%;
+  height:3px;
+}
+
+h1{
+  color:#ffffff;
+}
+
+table{
+  background-color:white;
+}
+
+img{
+  height:100px;
+}
+
+td,tr{
+  padding: 10px;
+}
+
+#id{
   color:black;
+}
+
+.photo{
+  border: 2px solid #ecf4f3;
+  border-radius:20px;
+  padding: 5PX;
+  height: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
